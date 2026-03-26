@@ -2,3 +2,44 @@
     box-sizing: border-box;
 }
 
+html {
+    background-color: grey;
+}
+.h1 {
+    background-color: pink;
+    color: white;
+}
+
+.p1 {
+    color: yellow;
+}
+ 
+.p2 {
+    color: rgb(157, 255, 169);
+}
+
+.p3 {
+    color: aquamarine;
+}
+
+.border1 {
+    width: 1300px;
+    height: 100px;
+    background-color: white;
+    padding: 50px;
+    border: 5px solid orange;
+    margin: auto;
+
+}
+
+p {
+    color: azure;
+}
+
+img {
+    display: inline;
+}
+
+#hi {
+    color: azure;
+}
